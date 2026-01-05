@@ -1,4 +1,4 @@
-Copyright (c) 2026 [Ton Nom]
+Copyright (c) 2026 Brayan Dyvan Lando Longmene
 
 Ce code est rendu public pour consultation uniquement.
 Toute modification, redistribution ou utilisation commerciale est interdite sans autorisation écrite de l’auteur.
