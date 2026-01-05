@@ -1,0 +1,4 @@
+Copyright (c) 2026 [Ton Nom]
+
+Ce code est rendu public pour consultation uniquement.
+Toute modification, redistribution ou utilisation commerciale est interdite sans autorisation écrite de l’auteur.
